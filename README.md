@@ -7,7 +7,7 @@ If you are less confident at security topics: I recommend doing a lot of reading
 
 - [README](#security-engineering)
 - [Background](#background)
-- [Learning Tips](#learningtips)
+- [Learning Tips](#learning-tips)
 - Interviewing Tips
 - Networking
 - Web Application
