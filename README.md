@@ -10,20 +10,20 @@ If you are less confident at security topics: I recommend doing a lot of reading
 - [Learning Tips](#learning-tips)
 - [Interviewing Tips](#interview-tips)
 - [Networking](#networking)
-- [Web Application]
-- [Infrastructure (Prod / Cloud) Virtualisation]
-- [OS Implementation and Systems]
-- [Mitigations]
-- [Cryptography, Authentication, Identity]
-- Malware & Reversing
-- Exploits
-- Attack Structure
-- Threat Modeling
-- Detection
-- Digital Forensics
-- Incident Management
-- Coding & Algorithms
-- [Security Themed Coding Challenges]
+- [Web Application](#web-application)
+- [Infrastructure (Prod / Cloud) Virtualisation](#infrastructure-prod--cloud-virtualisation)
+- [OS Implementation and Systems](#os-implementation-and-systems)
+- [Mitigations](#mitigations)
+- [Cryptography, Authentication, Identity](#cryptography-authentication-identity)
+- [Malware & Reversing](#malware--reversing)
+- [Exploits](#exploits)
+- [Attack Structure](#attack-structure)
+- [Threat Modeling](#threat-modeling)
+- [Detection](#detection)
+- [Digital Forensics](#digital-forensics)
+- [Incident Management](#incident-management)
+- [Coding & Algorithms](#coding--algorithms)
+- [Security Themed Coding Challenges](#security-themed-coding-challenges)
 
 # Background
 Where did these notes come from? See the README.
@@ -50,3 +50,17 @@ Where did these notes come from? See the README.
 # Interview Tips
 
 # Networking
+# Web Application
+# Infrastructure (Prod / Cloud) Virtualisation
+# OS Implementation and Systems
+# Mitigations
+# Cryptography, Authentication, Identity
+# Malware & Reversing
+# Exploits
+# Attack Structure
+# Threat Modeling
+# Detection
+# Digital Forensics
+# Incident Management
+# Coding & Algorithms
+# Security Themed Coding Challenges
