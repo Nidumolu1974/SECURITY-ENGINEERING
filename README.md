@@ -25,10 +25,10 @@ If you are less confident at security topics: I recommend doing a lot of reading
 - Coding & Algorithms
 - [Security Themed Coding Challenges]
 
-###### Background
+# Background
 Where did these notes come from? See the README.
 
-###### Learning Tips
+# Learning Tips
 - Track concepts - "To learn", "Revising", "Done"
   - Use spaced-repetition.
   - Any terms I couldn't easily explain went on to post-its.
@@ -47,6 +47,6 @@ Where did these notes come from? See the README.
   - You can review items in your head at any time. 
   - If I was struggling to fall asleep, I'd go through terms in my head and explained them to myself. 100% success rate of falling asleep in less than 10 minutes, works every time.
   
-###### Interview Tips
+# Interview Tips
 
-## Networking
+# Networking
