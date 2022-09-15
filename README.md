@@ -1,5 +1,5 @@
 # Security-Engineering
-Security related concepts - Krishan Dev
+**Security related concepts** - [Krishan Dev] 
 
 I am a security engineer and these are the notes for the interviews. My notes consist mostly of a list of terms and technologies to learn, plus little tidbits that helped me remember certain details. At the end are interview tips I made for myself. 
 
