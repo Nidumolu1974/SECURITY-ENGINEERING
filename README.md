@@ -29,14 +29,15 @@ If you are less confident at security topics: I recommend doing a lot of reading
 Where did these notes come from? See the README.
 
 # Learning Tips
-  - Track concepts - "To learn", "Revising", "Done"
+- Track concepts - "To learn", "Revising", "Done"
+  - Use spaced-repetition.
   - Any terms I couldn't easily explain went on to post-its.
   - One term per post-it.
-"To learn", "Revising", "Done" was written on my whiteboard and I moved my post-its between these categories, I attended to this every few days
-- I looked up terms everyday, and I practiced recalling terms and explaining them to myself every time I remembered I had these interviews coming up (frequently).
-- I focused on the most difficult topics first before moving onto easier topics.
-- I carried around a notebook and wrote down terms and explanations.
-- Using paper reduces distractions.
+  - "To learn", "Revising", "Done" was written on my whiteboard and I moved my post-its between these categories, I attended to this every few days
+  - I looked up terms everyday, and I practiced recalling terms and explaining them to myself every time I remembered I had these interviews coming up (frequently).
+  - I focused on the most difficult topics first before moving onto easier topics.
+  - I carried around a notebook and wrote down terms and explanations.
+  - Using paper reduces distractions.
 
 - **How to review concepts**
 
