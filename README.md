@@ -9,7 +9,7 @@ If you are less confident at security topics: I recommend doing a lot of reading
 - [Background](#background)
 - [Learning Tips](#learning-tips)
 - [Interviewing Tips](#interview-tips)
-- [Networking]
+- [Networking](#networking)
 - [Web Application]
 - [Infrastructure (Prod / Cloud) Virtualisation]
 - [OS Implementation and Systems]
@@ -48,3 +48,5 @@ Where did these notes come from? See the README.
   - If I was struggling to fall asleep, I'd go through terms in my head and explained them to myself. 100% success rate of falling asleep in less than 10 minutes, works every time.
   
 ###### Interview Tips
+
+## Networking
