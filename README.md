@@ -5,7 +5,8 @@ I am a security engineer and these are the notes for the interviews. My notes co
 
 If you are less confident at security topics: I recommend doing a lot of reading and whenever you come across a term you are unfamiliar with or couldn't easily explain, then add it to the list.
 
-- README
+- [README](#security-engineering)
+- [Background](#background)
 - Learning Tips
 - Interviewing Tips
 - Networking
@@ -22,4 +23,7 @@ If you are less confident at security topics: I recommend doing a lot of reading
 - Digital Forensics
 - Incident Management
 - Coding & Algorithms
-- Security Themed Coding Challenges
+- [Security Themed Coding Challenges]
+
+# Background
+Where did these notes come from? See the README.
