@@ -50,7 +50,14 @@ Where did these notes come from? See the README.
 # Interview Tips
 
 # Networking
-
+ 
+- Remember: Please Do Not Touch Steve's Pet Alligator ( P- Physical, D -Data , N - Network, T - Transport, S- Session, P- Presentation, A- Application)  
+- OSI Model
+  - Application; layer 7 (and basically layers 5 & 6) (includes API, HTTP, etc).
+  - Transport; layer 4 (TCP/UDP).
+  - Network; layer 3 (Routing).
+  - Datalink; layer 2 (Error checking and frame synchronisation).
+  - Physical; layer 1 (Bits over fibre).
 
 # Web Application
 # Infrastructure (Prod / Cloud) Virtualisation
