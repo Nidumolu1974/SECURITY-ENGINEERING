@@ -51,7 +51,7 @@ Where did these notes come from? See the README.
 
 # Networking
 
-Remember: Please Do Not Touch Steve's Pet Alligator ( P- Physical, D -Data , N - Network, T - Transport, S- Session, P- Presentation, A- Application)  
+**Remember: Please Do Not Touch Steve's Pet Alligator ( P- Physical, D -Data , N - Network, T - Transport, S- Session, P- Presentation, A- Application)**  
 - OSI Model
   - Application; layer 7 (and basically layers 5 & 6) (includes API, HTTP, etc).
   - Transport; layer 4 (TCP/UDP).
