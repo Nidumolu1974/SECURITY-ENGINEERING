@@ -56,6 +56,10 @@ Where did these notes come from? See the README.
   - Physical; layer 1 (Bits over fibre).
 
 # Web Application
+- Programming Interfaces
+- Security Knowledg Lifecycle 
+- Development Process
+
 # Infrastructure (Prod / Cloud) Virtualisation
 # OS Implementation and Systems
 # Mitigations
