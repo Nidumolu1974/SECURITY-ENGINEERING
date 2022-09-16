@@ -68,4 +68,5 @@ Where did these notes come from? See the README.
 # Digital Forensics
 # Incident Management
 # Coding & Algorithms
+# Certifications
 # Security Themed Coding Challenges
