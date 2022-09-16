@@ -57,9 +57,14 @@ Where did these notes come from? See the README.
 
 # Web Application
 - Programming Interfaces
-- Security Knowledg Lifecycle 
+  - Input Validation  
+- Security Knowledg Lifecycle
+  - Security Design pattern
+  - Attack Patterns
 - Development Process
-
+  - Security Code Review
+  - Application Vulnerability Scanning 
+     
 # Infrastructure (Prod / Cloud) Virtualisation
 # OS Implementation and Systems
 # Mitigations
