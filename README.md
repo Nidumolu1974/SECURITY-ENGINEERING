@@ -21,15 +21,7 @@
 # Background
 Where did these notes come from? See the README.
 
-# Learning Tips.
-  - One term per post-it.
-  - I looked up terms everyday, and I practiced recalling terms and explaining them to myself every time I remembered I had these interviews coming up (frequently).
-  - I focused on the most difficult topics first before moving onto easier topics.
-  - I carried around a notebook and wrote down terms and explanations.
-  - Using paper reduces distractions.
-
 # Networking
-
 **Remember: Please Do Not Touch Steve's Pet Alligator ( P- Physical, D -Data , N - Network, T - Transport, S- Session, P- Presentation, A- Application)**  
 - OSI Model
   - Application; layer 7 (and basically layers 5 & 6) (includes API, HTTP, etc).
@@ -49,7 +41,6 @@ Where did these notes come from? See the README.
   - Application Vulnerability Scanning
 - How to test web applications, Networks - and determine/ document deviations from approved  configuration standards and/or policies.
 
-     
 # Infrastructure (Prod / Cloud) Virtualisation
 # OS Implementation and Systems
 # Mitigations
@@ -64,8 +55,8 @@ Where did these notes come from? See the README.
 # Coding & Algorithms
 # Certifications
 # Security Themed Coding Challenges
-
-
-
 -------
-- [Interviewing Tips](#interview-tips)
+
+
+
+
