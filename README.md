@@ -42,15 +42,17 @@ Where did these notes come from? See the README.
   - Datalink; layer 2 (Error checking and frame synchronisation).
   - Physical; layer 1 (Bits over fibre).
 
-# Web Application
+# Web Application/ Vulnerability Assessment 
 - Programming Interfaces
-  - Input Validation  
+  - Input Validation 
 - Security Knowledg Lifecycle
   - Security Design pattern
   - Attack Patterns
 - Development Process
   - Security Code Review
-  - Application Vulnerability Scanning 
+  - Application Vulnerability Scanning
+- How to test web applications, Networks - and determine/ document deviations from approved  configuration standards and/or policies.
+
      
 # Infrastructure (Prod / Cloud) Virtualisation
 # OS Implementation and Systems
