@@ -6,8 +6,6 @@ These are the notes for the interviews. My notes consist mostly of a list of ter
 If you are less confident at security topics: I recommend doing a lot of reading and whenever you come across a term you are unfamiliar with or couldn't easily explain, then add it to the list.
 
 - [README](#security-engineering)
-- [Background](#background)
-- [Learning Tips](#learning-tips)
 - [Networking](#networking)
 - [Web Application](#web-application)
 - [Infrastructure (Prod / Cloud) Virtualisation](#infrastructure-prod--cloud-virtualisation)
