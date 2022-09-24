@@ -8,7 +8,6 @@ If you are less confident at security topics: I recommend doing a lot of reading
 - [README](#security-engineering)
 - [Background](#background)
 - [Learning Tips](#learning-tips)
-- [Interviewing Tips](#interview-tips)
 - [Networking](#networking)
 - [Web Application](#web-application)
 - [Infrastructure (Prod / Cloud) Virtualisation](#infrastructure-prod--cloud-virtualisation)
@@ -34,16 +33,6 @@ Where did these notes come from? See the README.
   - I focused on the most difficult topics first before moving onto easier topics.
   - I carried around a notebook and wrote down terms and explanations.
   - Using paper reduces distractions.
-
-- **How to review concepts**
-
-  - Use spaced-repetition.
-  - Don't immediately look up the answer, EVEN IF you have never seen the term before. Ask yourself what the term means. Guess the answer. Then look it up.
-  - Review terms all the time.
-  - You can review items in your head at any time. 
-  - If I was struggling to fall asleep, I'd go through terms in my head and explained them to myself. 100% success rate of falling asleep in less than 10 minutes, works every time.
-  
-# Interview Tips
 
 # Networking
 
@@ -79,3 +68,8 @@ Where did these notes come from? See the README.
 # Coding & Algorithms
 # Certifications
 # Security Themed Coding Challenges
+
+
+
+-------
+- [Interviewing Tips](#interview-tips)
