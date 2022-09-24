@@ -1,7 +1,6 @@
 # Security-Engineering
 **Security related concepts** - [Krishan Dev] 
 
-- [README](#security-engineering)
 - [Networking](#networking)
 - [Web Application](#web-application)
 - [Infrastructure (Prod / Cloud) Virtualisation](#infrastructure-prod--cloud-virtualisation)
